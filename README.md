@@ -1,8 +1,8 @@
 # Robot Apology
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?ref=0m7x29es)
-[![Rank](https://img.shields.io/badge/rank-unranked-lightgrey)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?ref=0m7x29es)
-[![Reward](https://img.shields.io/badge/reward-%242%20USDC-green)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?ref=0m7x29es)
+[![make.fun · u-suga-the-robot-apology-dd96bb59](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![rank](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/ranstar02/robot-apology/rank.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![reward](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/ranstar02/robot-apology/reward.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
 
 A tiny deterministic Python program that writes a robot's two-line apology to `/output/entry.txt`.
 
